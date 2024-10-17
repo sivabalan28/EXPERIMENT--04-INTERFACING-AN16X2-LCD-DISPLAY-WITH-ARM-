@@ -1,7 +1,4 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-Name : Sivabalan S
-
-Register no : 212222240100
 
  ## Aim: 
  To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
@@ -177,6 +174,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+Name:Sivabalan S
+Register number:212222240100
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
